@@ -1,0 +1,1 @@
+////  ChatAppController.h//  Unity-iPhone////  Created by Noor Mohammad on 3/3/16.////#import "UnityAppController.h"@interface ChatAppController : UnityAppController<UIAlertViewDelegate>{        NSString *pushMessage_;    NSString *locationStatus_;}-(NSString*)getPushMessage;-(NSString*)getLocationStatus;@endIMPL_APP_CONTROLLER_SUBCLASS(ChatAppController)

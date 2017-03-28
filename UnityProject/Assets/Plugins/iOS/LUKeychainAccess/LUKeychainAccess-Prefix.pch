@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'LUKeychainAccess' target in the 'LUKeychainAccess' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+  #import <Security/Security.h>
+#endif

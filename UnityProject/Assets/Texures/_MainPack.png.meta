@@ -1,0 +1,1165 @@
+fileFormatVersion: 2
+guid: 50019d03dfc2641d1b4481196e886cd1
+timeCreated: 1484892231
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: balloon_fukidasi@2x
+    21300002: balloon_text_area@2x
+    21300004: bg@2x
+    21300006: bg_btn_area_l@2x
+    21300008: bg_form_select@2x
+    21300010: bg_form_text@2x
+    21300012: bg_form_textarea@2x
+    21300014: btn_add_point@3x
+    21300016: btn_camera@2x
+    21300018: btn_campaign@2x
+    21300020: btn_chara_block@2x
+    21300022: btn_chara_block_active@2x
+    21300024: btn_chara_chat@2x
+    21300026: btn_chara_chat_active@2x
+    21300028: btn_chara_favorite@2x
+    21300030: nav_charge_active@3x
+    21300032: nav_charge@3x
+    21300034: nav_bbs@3x
+    21300036: nav_search_active@2x
+    21300038: nav_matching_active@2x
+    21300040: nav_search@2x
+    21300042: nav_chat@2x
+    21300044: nav_matching@2x
+    21300046: nav_chat_active@2x
+    21300048: nav_bbs_active@3x
+    21300050: menu_post_bbs@2x
+    21300052: menu_gps@2x
+    21300054: menu_gps_active@2x
+    21300056: menu_favorite_active@2x
+    21300058: menu_limit@2x
+    21300060: menu_info_active@2x
+    21300062: menu_prof_active@2x
+    21300064: menu_image@2x
+    21300066: menu_list_active@2x
+    21300068: menu_list@2x
+    21300070: menu_favorite@2x
+    21300072: menu_prof@2x
+    21300074: menu_image_active@2x
+    21300076: menu_info@2x
+    21300078: menu_sort@2x
+    21300080: menu_all_active@2x
+    21300082: btn_chara_favorite_active@2x
+    21300084: btn_myp_prof@3x
+    21300086: btn_match_next@2x
+    21300088: btn_myp_history@2x
+    21300090: card_bg_l@2x
+    21300092: btn_myp_notice@2x
+    21300094: btn_myp_prof@2x
+    21300096: btn_myp_setting@3x
+    21300098: btn_myp_favorite@2x
+    21300100: btn_match_prev@2x
+    21300102: btn_myp_free_chat@2x
+    21300104: btn_movie@2x
+    21300106: btn_myp_matching@2x
+    21300108: btn_matching_like@2x
+    21300110: btn_myp_message@2x
+    21300112: card_mask_l@2x
+    21300114: btn_myp_setting@2x
+    21300116: btn_match_love@2x
+    21300118: ico_ban_1@2x
+    21300120: tumb_mask_l@2x
+    21300122: ico_lock@2x
+    21300124: ico_arrow_down@2x
+    21300126: ico_card@2x
+    21300128: popup_bg_double@2x
+    21300130: popup_bg_single@2x
+    21300132: ico_arrow_right@2x
+    21300134: thumb_mask_s@2x
+    21300136: icon_nope@2x
+    21300138: ico_swich_off@2x
+    21300140: ico_info_lock@2x
+    21300142: ico_thumb@2x
+    21300144: mask_cover@2x
+    21300146: match_succes@2x
+    21300148: tab_bg@2x
+    21300150: ico_back@2x
+    21300152: ico_play_s@2x
+    21300154: tumb_bg_l@2x
+    21300156: menu_all@2x
+    21300158: icon_super_like@2x
+    21300160: overlay_cover_bottom@2x
+    21300162: ico_swich_on@2x
+    21300164: ico_play_l@2x
+    21300166: ico_block_l@2x
+    21300168: thumb_mask_xs@2x
+    21300170: ico_myp@3x
+    21300172: icon_like@2x
+    21300174: tutorial_matching@2x
+    21300176: ico_myp@2x
+    21300178: btn_entry_female@2x
+    21300180: btn_entry_male@2x
+    21300182: bg_btn_charge_l@2x
+    21300184: btn_add_point@2x
+    21300186: PaperFlight
+    21300188: campaign
+    21300190: nav_setting
+    21300192: nav_history
+    21300194: myp_profile
+    21300196: femail_icon
+    21300198: mail_icon
+    21300200: IconCancel
+    21300202: AdStop
+    21300204: IconPremium
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 1
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 1
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 1
+    overridden: 1
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balloon_fukidasi@2x
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 306
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg_btn_area_l@2x
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1213
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg_form_select@2x
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 665
+        width: 480
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg_form_text@2x
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 665
+        width: 480
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg_form_textarea@2x
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 480
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_chara_block@2x
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 512
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_chara_block_active@2x
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1827
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_chara_chat@2x
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 823
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_chara_chat_active@2x
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 945
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_chara_favorite@2x
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1189
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nav_bbs@3x
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1432
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nav_search@2x
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1562
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nav_chat@2x
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1692
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nav_matching@2x
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1822
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_post_bbs@2x
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1471
+        width: 362
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_gps@2x
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 734
+        width: 210
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_gps_active@2x
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 734
+        width: 210
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_favorite_active@2x
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 734
+        width: 282
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_limit@2x
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 734
+        width: 225
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_info_active@2x
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 734
+        width: 225
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_prof_active@2x
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1916
+        width: 282
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_image@2x
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 823
+        width: 210
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_list_active@2x
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 823
+        width: 210
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_list@2x
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 823
+        width: 210
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_favorite@2x
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1827
+        width: 282
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_prof@2x
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1738
+        width: 282
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_image_active@2x
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 823
+        width: 210
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_info@2x
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 557
+        width: 225
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_sort@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1934
+        width: 225
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_all_active@2x
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1649
+        width: 282
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_chara_favorite_active@2x
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1067
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_match_next@2x
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: card_bg_l@2x
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 254
+        width: 249
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_match_prev@2x
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_matching_like@2x
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: card_mask_l@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_match_love@2x
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumb_mask_l@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1717
+        width: 213
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_arrow_down@2x
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 634
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: popup_bg_double@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 663
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: popup_bg_single@2x
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 663
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: thumb_mask_s@2x
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1952
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_nope@2x
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1213
+        width: 173
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mask_cover@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 720
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tab_bg@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 720
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_play_s@2x
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 595
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tumb_bg_l@2x
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 0
+        width: 225
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_all@2x
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1560
+        width: 282
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_super_like@2x
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 438
+        width: 177
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: overlay_cover_bottom@2x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 720
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: thumb_mask_xs@2x
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 512
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_arrow_right@2x
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 581
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_ban_1@2x
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 581
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_block_l@2x
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 912
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_card@2x
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 630
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_info_lock@2x
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 595
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_play_l@2x
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 912
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_swich_off@2x
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1369
+        width: 156
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_swich_on@2x
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1949
+        width: 156
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_thumb@2x
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 595
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_like@2x
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 254
+        width: 170
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_myp@2x
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1831
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_lock@2x
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 595
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ico_back@2x
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 254
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PaperFlight
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1441
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: campaign
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1213
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nav_setting
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1311
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nav_history
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1571
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: myp_profile
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1172
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: femail_icon
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1701
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mail_icon
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconCancel
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1042
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: AdStop
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: IconPremium
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1302
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
